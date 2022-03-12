@@ -18,9 +18,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.awt.*;
 import java.io.IOException;
-import org.apache.commons.math3.*;
-
-import javax.swing.*;
 
 
 public class Chart extends ApplicationFrame
